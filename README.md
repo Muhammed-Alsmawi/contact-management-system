@@ -9,7 +9,7 @@ This Software is for managing contacts and it is developed with
 # Installation
 
 `
-git clone https://github.com/tauseedzaman/contact-management-system
+git clone https://github.com/Muhammed-Alsmawi/contact-management-system.git
 `
 
 `
