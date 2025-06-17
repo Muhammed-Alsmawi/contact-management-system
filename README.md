@@ -1,6 +1,6 @@
 # Contacts Management System
 
-This Software is responsible for managing contacts just like google contacts and it developed with
+This Software is for managing contacts and it is developed with
 1. Laravel
 2. Inertia
 3. Vue
